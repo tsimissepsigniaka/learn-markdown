@@ -1,10 +1,10 @@
-###### wriothery        
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)     
+###### wriothery  
 
 ```
 $ git init        
 Initialized empty Git repository in /Users/skillls/Projects/racipe-rapository/.git/
 ```
+
 ```python
 for i in range(1, 10):
     n = i + 1
@@ -12,3 +12,8 @@ for i in range(1, 10):
         print(f"{j} * {i} = {i*j}", end="\t")
     print()
 ```
+
+- [x] alhaithem
+- [ ] wriothery
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)  
